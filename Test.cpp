@@ -26,7 +26,7 @@ std::cout << " This number is accepted 😁 \n\n";
 
 for (int i = 0; i < number; i++) {
         
-        std::cout << rand()%10+1 << " ";
+        std::cout << rand()%22+1 << " ";
   
 
 }
@@ -49,7 +49,7 @@ std::cout << " This number is accepted 😁\n\n";
 
 for (int i = 0; i < number; i++) {
         
-        std::cout << rand()%10+1 << " ";
+        std::cout << rand()%22+1 << " ";
   
 }
 
@@ -63,7 +63,7 @@ std::cout << " This number is accepted 😁 \n\n";
 
 for (int i = 0; i < number; i++)
         
-        std::cout << rand()%10+1 << " ";
+        std::cout << rand()%22+1 << " ";
   
    
 
